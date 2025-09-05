@@ -1,5 +1,7 @@
 # 📚 Taller RMI 
 
+Video de Sustentacion: https://youtu.be/ABrUWI_hQak
+
 ## 🔹 Introduccion
 Este proyecto corresponde al **Taller de Sistemas Distribuidos**, donde se implementa un servicio remoto de **biblioteca** utilizando **RMI (Remote Method Invocation)** en Java.  
 
