@@ -39,8 +39,8 @@ TallerRMI/
 │   │
 │   ├── dat/
 │   │   └── libros.csv
-│   └── data/
-│       └── libros.csv
+│   
+│  
 │
 └── README.md
 ```
