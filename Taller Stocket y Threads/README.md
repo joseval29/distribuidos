@@ -74,7 +74,7 @@ java threadsJarroba.MainRunnable
 El informe incluye:
 
 - Resumen y abstract en español e inglés  
-- Introducción sobre comunicación en red y concurrencia  
+- Introducción
 - Objetivos generales y específicos  
 - Descripción técnica de ambos proyectos  
 - Tablas comparativas de archivos y estructuras  
