@@ -72,7 +72,7 @@ java threadsJarroba.MainRunnable
 
 ## 📌 Contenido del Informe
 
-El informe en formato entity["organization","IEEE"] incluye:
+El informe incluye:
 
 - Resumen y abstract en español e inglés.
 - Introducción sobre comunicación en red y concurrencia.
@@ -82,7 +82,8 @@ El informe en formato entity["organization","IEEE"] incluye:
 - Evidencia de ejecución (capturas de pantalla).
 - Conclusiones generales del taller.
 
-📄 Documento completo: `DistribuidosTaller.pdf`
+📄 [Ver informe completo en PDF](./DistribuidosTaller.pdf)
+
 
 ---
 
