@@ -1,8 +1,6 @@
 # Taller Stocket y Threads
 
-Este repositorio contiene dos proyectos desarrollados en entity["software","Java",1], orientados a la comprensión de conceptos fundamentales de **comunicación en red mediante sockets** y **programación concurrente con hilos**.  
-
-El trabajo hace parte de un taller académico de la entity["organization","Pontificia Universidad Javeriana"] para la asignatura de Introducción a Sistemas Distribuidos.
+Este repositorio contiene dos proyectos, orientados a la comprensión de conceptos fundamentales de **comunicación en red mediante sockets** y **programación concurrente con hilos**.
 
 ---
 
