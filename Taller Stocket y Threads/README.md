@@ -71,7 +71,7 @@ java threadsJarroba.MainRunnable
 
 ## 📌 Contenido del Informe
 
-El informe académico incluye:
+El informe incluye:
 
 - Resumen y abstract en español e inglés  
 - Introducción sobre comunicación en red y concurrencia  
