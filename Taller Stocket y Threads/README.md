@@ -1,4 +1,4 @@
-# Taller de Comunicación en Red y Concurrencia en Java
+# Taller Stocket y Threads
 
 Este repositorio contiene dos proyectos desarrollados en entity["software","Java",1], orientados a la comprensión de conceptos fundamentales de **comunicación en red mediante sockets** y **programación concurrente con hilos**.  
 
@@ -86,7 +86,3 @@ El informe en formato entity["organization","IEEE"] incluye:
 
 ---
 
-## 📚 Referencias
-
-- A. S. Tanenbaum, *Redes de Computadoras*.  
-- entity["organization","IEEE"], *Template for Conference Papers*.
